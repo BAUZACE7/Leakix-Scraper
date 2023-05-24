@@ -9,3 +9,7 @@ Scrapes urls and IP's from leakix.net, supports captcha bypassing
 
 
 . Supports Multi Threading
+
+
+
+pip install selenium 2captcha-python bs4
