@@ -10,7 +10,7 @@ from twocaptcha import TwoCaptcha
 import concurrent.futures
 
 timeoutCount = 7
-solver = TwoCaptcha('21b23e5f2cd3969b0f2faacc77397c15')
+solver = TwoCaptcha('PUT YOUR API HERE')
 
 # Set up Chrome WebDriver options
 chrome_options = Options()
